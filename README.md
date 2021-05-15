@@ -1,5 +1,5 @@
 # weather_forecast
 
-Data Analysis Using Google BigQuery Public Datasets. The dataset used in this work is sorced by NOAA
+Repository containing works related to weather forecasting using statistical and machine learning algorithms, also some time series study and data analisys.
 
-NOAA   The National Oceanic and Atmospheric Administration is an American scientific agency within the United States Department of Commerce focused on the conditions of the oceans and the atmosphere.
+Data: UCI Repository
